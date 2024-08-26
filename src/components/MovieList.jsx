@@ -3,7 +3,7 @@ import React from 'react'
 // eslint-disable-next-line react/prop-types
 const MovieList = ({movies}) => {
   return (
-    <table className="table table-bordered ">
+    <table className="table table-bordered table-hover">
     <thead className='table-active'>
       <tr>
         <th>Title</th>
